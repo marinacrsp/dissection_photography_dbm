@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../unet"
+		},
+		{
+			"path": "../../../mar/DiffusionBridge"
+		},
+		{
+			"path": "../../../mar/CADD_gitrepo"
+		},
+		{
+			"path": "../../../mar/proj_photos"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../lemon/software/photo_imputation"
+		},
+		{
+			"path": "../../../../../../cluster/scratch/thursday/4marina"
+		}
+	],
+	"settings": {}
+}

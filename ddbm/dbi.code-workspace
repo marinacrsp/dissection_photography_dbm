@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../mar/CADD_gitrepo"
+		},
+		{
+			"path": "../../unet"
+		},
+		{
+			"path": "../../../lemon/software/3DphotoRecon"
+		}
+	],
+	"settings": {}
+}
